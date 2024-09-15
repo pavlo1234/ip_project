@@ -1,0 +1,91 @@
+# ninja log v5
+538	592	7471499260122102	D:/WorkFiles/4_year/image processing/project/build/meta_types/ImageProcessingTool_json_file_list.txt	ca0b883cd0eac3d5
+36	188	7471513072175446	ImageProcessingTool_autogen/timestamp	15a20e721c58301a
+31	1786	7480995664814628	build.ninja	83fd2c87a683b1a8
+43	166	7471502398267501	.qt_plugins/Qt6_QmlPlugins_Imports_ImageProcessingTool.cmake	fe95f824d75d2545
+36	188	7471513072175446	ImageProcessingTool_autogen/mocs_compilation.cpp	15a20e721c58301a
+45	135	7471499255515847	D:/WorkFiles/4_year/image processing/project/build/.qt_plugins/Qt6_QmlPlugins_Imports_ImageProcessingTool.cmake	7ae554e34e7f0053
+297	516	7471499212555795	D:/WorkFiles/4_year/image processing/project/build/ImageProcessingTool_autogen/timestamp	9914ada873b420f
+207	238	7471514619636959	D:/WorkFiles/4_year/image_processing/project/build/meta_types/ImageProcessingTool_json_file_list.txt.timestamp	7a2467a5be0325e2
+625	719	7471512479561463	CMakeFiles/ImageProcessingTool.dir/ImageProcessingTool_autogen/mocs_compilation.cpp.obj	6485a818239be8fb
+297	516	7471499212555795	D:/WorkFiles/4_year/image processing/project/build/ImageProcessingTool_autogen/mocs_compilation.cpp	9914ada873b420f
+628	7605	7471512548251221	CMakeFiles/ImageProcessingTool.dir/src/main.cpp.obj	98588a73e3a01346
+40	74	7471502397322434	main/ui/default.qml	3a4e6b8c74c163c1
+463	501	7471502401508251	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qrc_ImageProcessingTool_raw_qml_0.cpp	f2ccc6d8c620548a
+43	82	7471499255004501	D:/WorkFiles/4_year/image processing/project/build/main/ui/default.qml	604e38f0c2a164e9
+167	224	7471502398840596	.rcc/qmlcache/ImageProcessingTool_qmlcache_loader.cpp	740cb5fe9de34133
+135	297	7471499257049633	D:/WorkFiles/4_year/image processing/project/build/.rcc/qmlcache/ImageProcessingTool_qmlcache_loader.cpp	9257a97bdfe3712
+462	500	7471502401508251	.rcc/qrc_qmake_main.cpp	2dabd2e349862f1c
+593	650	7471499260618989	D:/WorkFiles/4_year/image processing/project/build/meta_types/qt6imageprocessingtool_metatypes.json.gen	ce42808a2584045c
+540	583	7471499259919136	D:/WorkFiles/4_year/image processing/project/build/.rcc/qrc_qmake_main.cpp	9d8c11b99394653a
+463	501	7471502401508251	.rcc/qrc_ImageProcessingTool_raw_qml_0.cpp	f2ccc6d8c620548a
+633	793	7471512480296528	CMakeFiles/ImageProcessingTool.dir/build/.rcc/qrc_qmake_main.cpp.obj	63f01f9adc740cab
+542	583	7471499259919136	D:/WorkFiles/4_year/image processing/project/build/.rcc/qrc_ImageProcessingTool_raw_qml_0.cpp	a2d79bc2091ed5c
+207	238	7471514619636959	meta_types/ImageProcessingTool_json_file_list.txt	7a2467a5be0325e2
+167	224	7471502398840596	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qmlcache/ImageProcessingTool_qmlcache_loader.cpp	740cb5fe9de34133
+303	354	7471512475846114	meta_types/qt6imageprocessingtool_release_metatypes.json.gen	ac7c8d6a5e44d51a
+207	238	7471514619636959	meta_types/ImageProcessingTool_json_file_list.txt.timestamp	7a2467a5be0325e2
+538	592	7471499260122102	D:/WorkFiles/4_year/image processing/project/build/meta_types/ImageProcessingTool_json_file_list.txt.timestamp	ca0b883cd0eac3d5
+512	568	7471499260122102	meta_types/qt6imageprocessingtool_metatypes.json.gen	b77beed7d23bba1c
+303	354	7471512475846114	meta_types/qt6imageprocessingtool_release_metatypes.json	ac7c8d6a5e44d51a
+303	354	7471512475846114	D:/WorkFiles/4_year/image_processing/project/build/meta_types/qt6imageprocessingtool_release_metatypes.json	ac7c8d6a5e44d51a
+512	568	7471499260122102	meta_types/qt6imageprocessingtool_metatypes.json	b77beed7d23bba1c
+303	354	7471512475846114	D:/WorkFiles/4_year/image_processing/project/build/meta_types/qt6imageprocessingtool_release_metatypes.json.gen	ac7c8d6a5e44d51a
+593	650	7471499260618989	D:/WorkFiles/4_year/image processing/project/build/meta_types/qt6imageprocessingtool_metatypes.json	ce42808a2584045c
+630	3078	7471512503106323	CMakeFiles/ImageProcessingTool.dir/imageprocessingtool_qmltyperegistrations.cpp.obj	4fe0d594601febc4
+354	468	7471512476495018	imageprocessingtool_qmltyperegistrations.cpp	e8905e6a75482b2d
+354	468	7471512476495018	main/ImageProcessingTool.qmltypes	e8905e6a75482b2d
+638	3312	7471512505378255	CMakeFiles/ImageProcessingTool.dir/build/.rcc/qmlcache/ImageProcessingTool_ui/default_qml.cpp.obj	88c95e29eddeb33a
+650	812	7471499261680449	D:/WorkFiles/4_year/image processing/project/build/imageprocessingtool_qmltyperegistrations.cpp	3a3d4f3da9cbb52f
+468	625	7471512478437386	.rcc/qmlcache/ImageProcessingTool_ui/default_qml.cpp	fea65c4b339ec70e
+650	812	7471499261680449	D:/WorkFiles/4_year/image processing/project/build/main/ImageProcessingTool.qmltypes	3a3d4f3da9cbb52f
+812	1060	7471499264597897	D:/WorkFiles/4_year/image processing/project/build/.rcc/qmlcache/ImageProcessingTool_ui/default_qml.cpp	25bb44b172965fb5
+641	792	7471512480286534	CMakeFiles/ImageProcessingTool.dir/build/.rcc/qrc_ImageProcessingTool_raw_qml_0.cpp.obj	c37d2a641ba38d64
+635	3871	7471512510927844	CMakeFiles/ImageProcessingTool.dir/build/.rcc/qmlcache/ImageProcessingTool_qmlcache_loader.cpp.obj	59d229c0dc3c8939
+40	74	7471502397322434	D:/WorkFiles/4_year/image_processing/project/build/main/ui/default.qml	3a4e6b8c74c163c1
+462	500	7471502401508251	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qrc_qmake_main.cpp	2dabd2e349862f1c
+43	166	7471502398267501	D:/WorkFiles/4_year/image_processing/project/build/.qt_plugins/Qt6_QmlPlugins_Imports_ImageProcessingTool.cmake	fe95f824d75d2545
+207	238	7471514619636959	D:/WorkFiles/4_year/image_processing/project/build/meta_types/ImageProcessingTool_json_file_list.txt	7a2467a5be0325e2
+36	188	7471513072175446	D:/WorkFiles/4_year/image_processing/project/build/ImageProcessingTool_autogen/timestamp	15a20e721c58301a
+36	188	7471513072175446	D:/WorkFiles/4_year/image_processing/project/build/ImageProcessingTool_autogen/mocs_compilation.cpp	15a20e721c58301a
+512	568	7471499260122102	D:/WorkFiles/4_year/image_processing/project/build/meta_types/qt6imageprocessingtool_metatypes.json.gen	b77beed7d23bba1c
+468	625	7471512478437386	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qmlcache/ImageProcessingTool_ui/default_qml.cpp	fea65c4b339ec70e
+512	568	7471499260122102	D:/WorkFiles/4_year/image_processing/project/build/meta_types/qt6imageprocessingtool_metatypes.json	b77beed7d23bba1c
+354	468	7471512476495018	D:/WorkFiles/4_year/image_processing/project/build/imageprocessingtool_qmltyperegistrations.cpp	e8905e6a75482b2d
+354	468	7471512476495018	D:/WorkFiles/4_year/image_processing/project/build/main/ImageProcessingTool.qmltypes	e8905e6a75482b2d
+7606	7858	7471512550769679	ImageProcessingTool.exe	90d134b17bf9e5ad
+146	2295	7480995664814628	build.ninja	83fd2c87a683b1a8
+36	240	7480995667877969	.qt_plugins/Qt6_QmlPlugins_Imports_ip_tool.cmake	93f49c6056903962
+36	240	7480995667877969	D:/WorkFiles/4_year/image_processing/project/build/.qt_plugins/Qt6_QmlPlugins_Imports_ip_tool.cmake	93f49c6056903962
+240	287	7480995668383425	.rcc/qmlcache/ip_tool_qmlcache_loader.cpp	4a78016a909cf211
+240	287	7480995668383425	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qmlcache/ip_tool_qmlcache_loader.cpp	4a78016a909cf211
+288	611	7480995670905838	ip_tool_autogen/timestamp	e254f5e608652c6b
+288	611	7480995670905838	ip_tool_autogen/mocs_compilation.cpp	e254f5e608652c6b
+288	611	7480995670905838	D:/WorkFiles/4_year/image_processing/project/build/ip_tool_autogen/timestamp	e254f5e608652c6b
+288	611	7480995670905838	D:/WorkFiles/4_year/image_processing/project/build/ip_tool_autogen/mocs_compilation.cpp	e254f5e608652c6b
+614	651	7480995672047184	.rcc/qrc_qmake_main.cpp	2dabd2e349862f1c
+614	651	7480995672047184	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qrc_qmake_main.cpp	2dabd2e349862f1c
+616	652	7480995672054768	.rcc/qrc_ip_tool_raw_qml_0.cpp	498d8a753e6a8ca6
+616	652	7480995672054768	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qrc_ip_tool_raw_qml_0.cpp	498d8a753e6a8ca6
+612	661	7480995672117395	meta_types/ip_tool_json_file_list.txt	f63a43cd74866e10
+612	661	7480995672117395	meta_types/ip_tool_json_file_list.txt.timestamp	f63a43cd74866e10
+612	661	7480995672117395	D:/WorkFiles/4_year/image_processing/project/build/meta_types/ip_tool_json_file_list.txt	f63a43cd74866e10
+612	661	7480995672117395	D:/WorkFiles/4_year/image_processing/project/build/meta_types/ip_tool_json_file_list.txt.timestamp	f63a43cd74866e10
+661	711	7480995672651179	meta_types/qt6ip_tool_release_metatypes.json.gen	3361dcb2c3f4911e
+661	711	7480995672651179	meta_types/qt6ip_tool_release_metatypes.json	3361dcb2c3f4911e
+661	711	7480995672651179	D:/WorkFiles/4_year/image_processing/project/build/meta_types/qt6ip_tool_release_metatypes.json.gen	3361dcb2c3f4911e
+661	711	7480995672651179	D:/WorkFiles/4_year/image_processing/project/build/meta_types/qt6ip_tool_release_metatypes.json	3361dcb2c3f4911e
+712	855	7480995673554782	ip_tool_qmltyperegistrations.cpp	4a8ec25139cada27
+712	855	7480995673554782	main/ip_tool.qmltypes	4a8ec25139cada27
+712	855	7480995673554782	D:/WorkFiles/4_year/image_processing/project/build/ip_tool_qmltyperegistrations.cpp	4a8ec25139cada27
+712	855	7480995673554782	D:/WorkFiles/4_year/image_processing/project/build/main/ip_tool.qmltypes	4a8ec25139cada27
+855	1053	7480995675933231	.rcc/qmlcache/ip_tool_ui/default_qml.cpp	e5ff5287d548de79
+855	1053	7480995675933231	D:/WorkFiles/4_year/image_processing/project/build/.rcc/qmlcache/ip_tool_ui/default_qml.cpp	e5ff5287d548de79
+1053	1175	7480995677303304	CMakeFiles/ip_tool.dir/ip_tool_autogen/mocs_compilation.cpp.obj	f8b63ccec5615944
+1068	1241	7480995677930759	CMakeFiles/ip_tool.dir/build/.rcc/qrc_ip_tool_raw_qml_0.cpp.obj	e7f41b0d56aff2b5
+1059	1244	7480995677930759	CMakeFiles/ip_tool.dir/build/.rcc/qrc_qmake_main.cpp.obj	7280f177d8259051
+1057	4175	7480995707130201	CMakeFiles/ip_tool.dir/ip_tool_qmltyperegistrations.cpp.obj	5e5b40263721b858
+1064	4485	7480995710376503	CMakeFiles/ip_tool.dir/build/.rcc/qmlcache/ip_tool_ui/default_qml.cpp.obj	ca638b130d2a666
+1061	5202	7480995717416639	CMakeFiles/ip_tool.dir/build/.rcc/qmlcache/ip_tool_qmlcache_loader.cpp.obj	62007b4f191b7156
+1055	9386	7480995759344611	CMakeFiles/ip_tool.dir/src/main.cpp.obj	1177613f882abc95
+9387	9801	7480995763426170	ip_tool.exe	f8f97c0c3898c266

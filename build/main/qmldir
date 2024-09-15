@@ -1,0 +1,4 @@
+module main
+typeinfo ip_tool.qmltypes
+prefer :/main/
+

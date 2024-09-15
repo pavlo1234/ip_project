@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/main/">
+    <file alias="ui/default.qml">D:/WorkFiles/4_year/image_processing/project/ui/default.qml</file>
+  </qresource>
+</RCC>
+

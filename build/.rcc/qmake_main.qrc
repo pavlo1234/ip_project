@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/main">
+    <file alias="qmldir">D:/WorkFiles/4_year/image_processing/project/build/main/qmldir</file>
+  </qresource>
+</RCC>
+

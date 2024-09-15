@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/main">D:/WorkFiles/4_year/image_processing/project/build/main</file>
+
+  </qresource>
+</RCC>
