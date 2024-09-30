@@ -1,0 +1,55 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "ColorTransformer",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "image",
+                            "type": "QImage*"
+                        },
+                        {
+                            "name": "method",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "jsList",
+                            "type": "QVariantList"
+                        }
+                    ],
+                    "name": "transform",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "image",
+                            "type": "QImage*"
+                        }
+                    ],
+                    "name": "getDistribution",
+                    "returnType": "QVariantMap"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "ColorTransformer",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ColorTransformer.hpp",
+    "outputRevision": 68
+}

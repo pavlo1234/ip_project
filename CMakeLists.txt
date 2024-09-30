@@ -15,14 +15,16 @@ set(Qt6_DIR "C:\\Qt\\6.5.1\\mingw_64\\lib\\cmake\\Qt6")
 set(Qt6_SHARED_LIB_DIR "C:\\Qt\\6.5.1\\mingw_64\\bin")
 
 #знаходження бібліотек Qt
-find_package(Qt6 REQUIRED COMPONENTS Quick Core Gui)
+find_package(Qt6 REQUIRED COMPONENTS Quick Core Gui Charts ChartsQml)
 
 #стандартне налаштування Qt-проекту
 qt_standard_project_setup()
 
 #отримання усіх заголовкових та реалізаційних файлів проекту
-file(GLOB SOURCES src/*.cpp src/model/*.cpp)
-file(GLOB HEADERS include/*.h include/model/*.h include/model/interface/*.h )
+file(GLOB SOURCES src/*.cpp)
+file(GLOB HEADERS include/*.hpp)
+
+file(GLOB UIS ui/*.qml)
 
 
 #створення Qt-застосунку, підключення файлів
@@ -36,6 +38,12 @@ qt_add_qml_module(${PROJECT_NAME}
     URI main
     QML_FILES
         ui/default.qml
+        ui/tools/filter/FilterTool.qml
+        ui/tools/filter/Matrix.qml
+        ui/tools/filter/Cell.qml
+        ui/tools/color/ColorTool.qml
+        ui/tools/color/ParamBox.qml
+        ui/tools/color/DistPlotView.qml
 )
 
 #встановлення папки для підключення файлів
@@ -48,7 +56,7 @@ target_link_directories(${PROJECT_NAME}
 )
 #підключення Qt-бібліотек до проекту
 target_link_libraries(${PROJECT_NAME}
-    PUBLIC Qt6::Quick Qt6::Core Qt6::Gui
+    PUBLIC Qt6::Quick Qt6::Core Qt6::Gui Qt6::Charts Qt6::ChartsQml
 )
 
 #встановлення шляху та правил розгортки проекту

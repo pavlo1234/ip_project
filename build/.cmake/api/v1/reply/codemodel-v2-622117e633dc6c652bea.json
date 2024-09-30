@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-03009df0866e9991771d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ip_tool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-980ef98325864002d85d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d3d98b86c6120af05332.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-633fd238b36d5d82c7c2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-cabf88a6568af3827d0a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool-Debug-0d2e113493210bd42116.json",
+					"name" : "ip_tool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_autogen-Debug-fb97027ce42e39000bb6.json",
+					"name" : "ip_tool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_autogen_timestamp_deps-Debug-253811bd6f05bd90ef97.json",
+					"name" : "ip_tool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_qmlimportscan-Debug-b9b466e54981eacccce3.json",
+					"name" : "ip_tool_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_qmllint-Debug-4cda31ee4bc34560e949.json",
+					"name" : "ip_tool_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_qmllint_json-Debug-0a6b372a57b748ea0fcc.json",
+					"name" : "ip_tool_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_qmllint_module-Debug-c9311e16c71ea283b22a.json",
+					"name" : "ip_tool_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_qmltyperegistration-Debug-d43a9545156cb400f205.json",
+					"name" : "ip_tool_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ip_tool_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ip_tool_tooling-Debug-853671334fa5fcc40e03.json",
+					"name" : "ip_tool_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/WorkFiles/4_year/image_processing/project/build",
+		"source" : "D:/WorkFiles/4_year/image_processing/project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

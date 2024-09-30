@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "Tool",
+            "object": true,
+            "qualifiedClassName": "Tool",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "Tool.hpp",
+    "outputRevision": 68
+}

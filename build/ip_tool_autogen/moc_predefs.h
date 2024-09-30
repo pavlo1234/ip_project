@@ -54,7 +54,6 @@
 #define __LDBL_MAX__ 1.18973149535723176502126385303097021e+4932L
 #define __FLT64X_MAX_10_EXP__ 4932
 #define QT_QMLINTEGRATION_LIB 1
-#define QT_NO_DEBUG 1
 #define __FLT64X_HAS_QUIET_NAN__ 1
 #define __UINT_LEAST8_MAX__ 0xff
 #define __GCC_ATOMIC_BOOL_LOCK_FREE 2
@@ -98,6 +97,7 @@
 #define __INT_WIDTH__ 32
 #define __SIZEOF_LONG__ 4
 #define __UINT16_C(c) c
+#define QT_CHARTS_LIB 1
 #define UNICODE 1
 #define __DECIMAL_DIG__ 21
 #define __FLT64_EPSILON__ 2.22044604925031308084726333618164062e-16F64
@@ -137,6 +137,7 @@
 #define __MMX_WITH_SSE__ 1
 #define _fastcall __attribute__((__fastcall__))
 #define __LDBL_HAS_DENORM__ 1
+#define QT_WIDGETS_LIB 1
 #define __cplusplus 201402L
 #define __cpp_ref_qualifiers 200710L
 #define __DEC32_MIN__ 1E-95DF
@@ -212,6 +213,7 @@
 #define __DEC64_EPSILON__ 1E-15DD
 #define __ORDER_PDP_ENDIAN__ 3412
 #define __DEC128_MIN_EXP__ (-6142)
+#define QT_OPENGLWIDGETS_LIB 1
 #define __INT_FAST32_TYPE__ int
 #define __UINT_LEAST16_TYPE__ short unsigned int
 #define __DBL_HAS_DENORM__ 1
@@ -232,6 +234,7 @@
 #define __SIG_ATOMIC_MAX__ 0x7fffffff
 #define __GCC_ATOMIC_WCHAR_T_LOCK_FREE 2
 #define __SIZEOF_PTRDIFF_T__ 8
+#define QT_CHARTSQML_LIB 1
 #define __LDBL_DIG__ 18
 #define __x86_64__ 1
 #define __FLT32X_MIN_EXP__ (-1021)

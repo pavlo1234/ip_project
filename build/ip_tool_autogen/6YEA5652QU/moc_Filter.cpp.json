@@ -1,0 +1,55 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "Filter",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "image",
+                            "type": "QImage*"
+                        }
+                    ],
+                    "name": "process",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "array",
+                            "type": "QVariantList"
+                        },
+                        {
+                            "name": "N",
+                            "type": "int"
+                        },
+                        {
+                            "name": "R",
+                            "type": "double"
+                        }
+                    ],
+                    "name": "setKernel",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "Filter",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "Filter.hpp",
+    "outputRevision": 68
+}
